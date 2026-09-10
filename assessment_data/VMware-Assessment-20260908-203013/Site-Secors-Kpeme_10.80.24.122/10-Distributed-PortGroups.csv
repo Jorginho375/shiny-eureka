@@ -1,0 +1,3 @@
+"PortGroup","VDSwitch","VLanConfiguration","NumPorts","PortBinding"
+"DSwitch-DVUplinks-2049","DSWITCH_01","VLAN Trunk [0-4094]","4","Static"
+"LAN_SERVEURS","DSWITCH_01",,"24","Static"

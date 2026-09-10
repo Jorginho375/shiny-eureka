@@ -1,0 +1,3 @@
+"Cluster","HAEnabled","HAAdmissionControlEnabled","DrsEnabled","DrsAutomationLevel","EVCMode","HostCount","VMCount","PoweredOnVMs","TotalCPUCores","TotalMemoryGB"
+"Cluster_DR_Ext.","True","True","True","FullyAutomated",,"1","15","1","16","271,99"
+"Cluster_DR","False","True","True","PartiallyAutomated",,"2","63","24","192","2047,33"

@@ -1,0 +1,55 @@
+"Host","Cluster","Device","Type","Model","Status","Driver","Pci","WWN","IScsiName"
+"10.80.24.20","Cluster_DR_Ext.","vmhba0","Block","ICH10 4 port SATA IDE Controller","unknown","vmkata","0000:00:1f.2","",
+"10.80.24.20","Cluster_DR_Ext.","vmhba1","Block","Smart Array P410i","unknown","nhpsa","0000:03:00.0","",
+"10.80.24.20","Cluster_DR_Ext.","vmhba2","FibreChannel","ISP2532-based 8Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:08:00.0","5001438021DF333F",
+"10.80.24.20","Cluster_DR_Ext.","vmhba64","Block","ICH10 4 port SATA IDE Controller","unknown","vmkata","0000:00:1f.2","",
+"10.80.24.40","Cluster_DR","vmhba0","Block","HPE P408i-p SR Gen10","unknown","smartpqi","0000:86:00.0","",
+"10.80.24.40","Cluster_DR","vmhba1","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.0","51402EC011090795",
+"10.80.24.40","Cluster_DR","vmhba2","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:9c:00.1","51402EC011090797",
+"10.80.24.40","Cluster_DR","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC01108E499",
+"10.80.24.40","Cluster_DR","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:11:00.1","51402EC01108E49B",
+"10.80.24.40","Cluster_DR","vmhba64","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC01108E499",
+"10.80.24.40","Cluster_DR","vmhba65","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:11:00.1","51402EC01108E49B",
+"10.80.24.40","Cluster_DR","vmhba66","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.0","51402EC011090795",
+"10.80.24.40","Cluster_DR","vmhba67","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:9c:00.1","51402EC011090797",
+"10.80.24.40","Cluster_DR","vmhba68","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1653588382:68"
+"10.80.24.40","Cluster_DR","vmhba69","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1343071822:69"
+"10.80.24.40","Cluster_DR","vmhba70","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2109606834:70"
+"10.80.24.40","Cluster_DR","vmhba71","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1811960144:71"
+"10.80.24.40","Cluster_DR","vmhba72","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:131697912:72"
+"10.80.24.40","Cluster_DR","vmhba73","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0771",
+"10.80.24.40","Cluster_DR","vmhba74","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1671804337:74"
+"10.80.24.40","Cluster_DR","vmhba75","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0773",
+"10.80.24.40","Cluster_DR","vmhba76","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1064496536:76"
+"10.80.24.40","Cluster_DR","vmhba77","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0775",
+"10.80.24.40","Cluster_DR","vmhba78","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1535560179:78"
+"10.80.24.40","Cluster_DR","vmhba79","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0777",
+"10.80.24.40","Cluster_DR","vmhba80","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:915343308:80"
+"10.80.24.40","Cluster_DR","vmhba81","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1691905413:81"
+"10.80.24.40","Cluster_DR","vmhba82","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:306044174:82"
+"10.80.24.40","Cluster_DR","vmhba83","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1081295206:83"
+"10.80.24.50","Cluster_DR","vmhba0","Block","HPE P408i-p SR Gen10","unknown","smartpqi","0000:86:00.0","",
+"10.80.24.50","Cluster_DR","vmhba1","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:9c:00.0","51402EC0110907B5",
+"10.80.24.50","Cluster_DR","vmhba2","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.1","51402EC0110907B7",
+"10.80.24.50","Cluster_DR","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC011090791",
+"10.80.24.50","Cluster_DR","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:11:00.1","51402EC011090793",
+"10.80.24.50","Cluster_DR","vmhba64","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC011090791",
+"10.80.24.50","Cluster_DR","vmhba65","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:11:00.1","51402EC011090793",
+"10.80.24.50","Cluster_DR","vmhba66","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:9c:00.0","51402EC0110907B5",
+"10.80.24.50","Cluster_DR","vmhba67","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.1","51402EC0110907B7",
+"10.80.24.50","Cluster_DR","vmhba68","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:318588572:68"
+"10.80.24.50","Cluster_DR","vmhba69","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1089419164:69"
+"10.80.24.50","Cluster_DR","vmhba70","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:797550057:70"
+"10.80.24.50","Cluster_DR","vmhba71","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1548816276:71"
+"10.80.24.50","Cluster_DR","vmhba72","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:177667193:72"
+"10.80.24.50","Cluster_DR","vmhba73","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","1000D06726C64B71",
+"10.80.24.50","Cluster_DR","vmhba74","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1712614336:74"
+"10.80.24.50","Cluster_DR","vmhba75","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","1000D06726C64B73",
+"10.80.24.50","Cluster_DR","vmhba76","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:28298646:76"
+"10.80.24.50","Cluster_DR","vmhba77","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","1000D06726C64B75",
+"10.80.24.50","Cluster_DR","vmhba78","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:501501171:78"
+"10.80.24.50","Cluster_DR","vmhba79","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","1000D06726C64B77",
+"10.80.24.50","Cluster_DR","vmhba80","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2039737086:80"
+"10.80.24.50","Cluster_DR","vmhba81","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1734544873:81"
+"10.80.24.50","Cluster_DR","vmhba82","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1428210611:82"
+"10.80.24.50","Cluster_DR","vmhba83","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1127183792:83"

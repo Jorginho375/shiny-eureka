@@ -1,0 +1,6 @@
+"Name","LicenseKeyMasked","Total","Used","CostUnit","EditionKey"
+"Product Evaluation","****-00000","0",,"","eval"
+"vCenter Server 8 Standard","****-0J3MM","1","1","server","vc.standard.instance"
+"VMware vSphere 6 Enterprise Plus","****-14W71","4","2","cpuPackage","esx.enterprisePlus.cpuPackage"
+"VMware vSphere 6 Enterprise","****-0DHQ0","6","2","cpuPackage","esx.enterprise.cpuPackage"
+"vSphere 8 Enterprise Plus","****-8936H","8","8","cpuPackage:32core","esx.enterprisePlus.cpuPackageCoreLimited"
