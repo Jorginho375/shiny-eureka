@@ -1,0 +1,2 @@
+"Cluster","HAEnabled","HAAdmissionControlEnabled","DrsEnabled","DrsAutomationLevel","EVCMode","HostCount","VMCount","PoweredOnVMs","TotalCPUCores","TotalMemoryGB"
+"CLUSTER_PF_FLOOZ_PROD","True","True","True","PartiallyAutomated",,"2","79","48","224","2046,92"

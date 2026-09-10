@@ -1,0 +1,5 @@
+"Host","Cluster","Name","IP","SubnetMask","Mac","Mtu","PortGroup","VMotionEnabled","FaultToleranceLoggingEnabled","ManagementTrafficEnabled","VsanTrafficEnabled"
+"tg002pminf045.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","vmk0","10.80.18.110","255.255.255.128","78:ac:44:91:9d:3a","1500","MGMT","True","False","True","False"
+"tg002pminf045.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","vmk1","10.80.19.4","255.255.255.0","00:50:56:6b:89:07","1500","Vmotion/Backup","False","False","False","False"
+"tg002pminf046.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","vmk0","10.80.18.111","255.255.255.128","78:ac:44:8f:ec:62","1500","MGMT","True","False","True","False"
+"tg002pminf046.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","vmk1","10.80.19.3","255.255.255.0","00:50:56:62:9e:8d","1500","Vmotion/Backup","False","False","False","False"

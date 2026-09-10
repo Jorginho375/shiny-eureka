@@ -1,0 +1,2 @@
+"Cluster","HostCount","PoweredOnVMs","TotalPhysicalCpuCores","TotalPhysicalMemoryGB","ProvisionedVCPU","ProvisionedVMRAMGB","ProvisionedVMStorageGB","SumHostCpuMHz_P95","SumHostMemConsumedKB_P95","Notes"
+"CLUSTER_PF_FLOOZ_PROD","2","48","224","2046,92","479","1480,38","81030,71","27548","984653148","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."

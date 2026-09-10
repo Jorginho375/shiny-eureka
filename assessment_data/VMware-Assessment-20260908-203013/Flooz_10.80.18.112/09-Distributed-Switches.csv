@@ -1,0 +1,4 @@
+"VDSwitch","Version","Mtu","NumUplinkPorts","Datacenter"
+"DS_PROD","8.0.0","1500","4","DC_ATT_MM_PROD"
+"DS_FRONT-END_VM","8.0.0","1500","3","DC_ATT_MM_PROD"
+"DS_BACK-END_VM","8.0.0","1500","3","DC_ATT_MM_PROD"

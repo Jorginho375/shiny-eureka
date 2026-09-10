@@ -1,0 +1,7 @@
+"Host","Cluster","PortGroup","VLanId","VirtualSwitch","Type"
+"tg002pminf045.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","VM Network","0","vSwitch0","Standard"
+"tg002pminf045.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","Vmotion/Backup","0","vSwitch0","Standard"
+"tg002pminf045.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","MGMT","0","vSwitch0","Standard"
+"tg002pminf046.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","VM Network","0","vSwitch0","Standard"
+"tg002pminf046.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","Vmotion/Backup","0","vSwitch0","Standard"
+"tg002pminf046.moov-africa.tg","CLUSTER_PF_FLOOZ_PROD","MGMT","0","vSwitch0","Standard"

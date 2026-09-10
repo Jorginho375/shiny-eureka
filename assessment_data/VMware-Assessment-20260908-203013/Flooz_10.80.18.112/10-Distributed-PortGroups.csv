@@ -1,0 +1,7 @@
+"PortGroup","VDSwitch","VLanConfiguration","NumPorts","PortBinding"
+"PROD-DVUplinks-25425","DS_PROD","VLAN Trunk [0-4094]","8","Static"
+"PROD","DS_PROD",,"16","Static"
+"FRONT-END_VM-DVUplinks-3033","DS_FRONT-END_VM","VLAN Trunk [0-4094]","6","Static"
+"FRONT-END_VM","DS_FRONT-END_VM",,"18","Static"
+"BACK-END_VM-DVUplinks-3036","DS_BACK-END_VM","VLAN Trunk [0-4094]","6","Static"
+"BACK-END_VM","DS_BACK-END_VM",,"21","Static"
