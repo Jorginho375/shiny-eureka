@@ -1,0 +1,35 @@
+"VM","PowerState","Host","Cluster","NumCPU","MemoryGB","ProvisionedSpaceGB","UsedSpaceGB","GuestOS","GuestId","HardwareVersion","ToolsStatus","ToolsVersion","IPAddress","DNSName","Datastores","Networks","Folder","Notes"
+"TG002VMRPT108","PoweredOff","10.82.11.10","","4","16","416,18","400",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"ISE_103","PoweredOff","10.82.11.10","","8","68","368,22","83,09",,"rhel7_64Guest","vmx-09","guestToolsNotRunning","10309","",,"DS_DATA_BI-2","RESEAU-DIS;VM Network","vm",
+"TG002VMBDT005","PoweredOff","10.82.11.10","","4","64","154,24","4,08",,"rhel8_64Guest","vmx-14","guestToolsNotRunning","10336","",,"DS_OS_BIGDATA-04","VM Network","vm",
+"SERVEUR_ISE_02","PoweredOff","10.82.11.10","","4","16","316,21","62,87",,"rhel7_64Guest","vmx-09","guestToolsNotRunning","10309","",,"DS_OS_PORTING","VM Network","vm",
+"TG002VMBDT004","PoweredOff","10.82.11.10","","4","64","154,24","4,06",,"rhel8_64Guest","vmx-14","guestToolsNotRunning","10336","",,"DS_OS_BIGDATA-03","VM Network","vm",
+"TG002VMDBO107","PoweredOff","10.82.11.10","","4","16","416,18","400",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"TG002VMBDT002","PoweredOff","10.82.11.10","","4","64","154,24","4,05",,"rhel8_64Guest","vmx-14","guestToolsNotRunning","10336","",,"DS_OS_BIGDATA-01","VM Network","vm",
+"ISE_102","PoweredOff","10.82.11.10","","8","68","368,22","72,71",,"rhel7_64Guest","vmx-09","guestToolsNotRunning","10309","",,"DS_DATA_BI-2","VM Network","vm",
+"TG002VMLOG105","PoweredOff","10.82.11.10","","4","8","808,18","800",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"TG002VMDBO106","PoweredOff","10.82.11.10","","4","16","416,18","400",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"Ubuntu_Test_Server","PoweredOff","10.82.11.10","","8","32","132,25","6,65",,"ubuntu64Guest","vmx-14","guestToolsNotRunning","12448","","testserver001","DS_DATA_RAT-2;DS_IMAGES_ISO","VM Network","vm",
+"TG002VMMNT104","PoweredOff","10.82.11.10","","4","8","258,18","250",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"TG002VMRAT002","PoweredOff","10.82.11.10","","32","64","1488,27","1245,9",,"centos8_64Guest","vmx-14","guestToolsNotRunning","10282","",,"DS_DATA_RAT-2;DS_OS_RAT-2","RESEAU-DIS;VM Network","vm",
+"TG002VMAPP102","PoweredOff","10.82.11.10","","4","16","266,18","250",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"TG002VMDSS110","PoweredOff","10.82.11.10","","4","16","416,18","400",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"tg002vminf120","PoweredOn","10.82.11.25","Cluster_DMZ","2","10","289,71","48,71","VMware Photon OS (64-bit)","other3xLinux64Guest","vmx-10","guestToolsRunning","11365","10.82.11.120","tg002vminf120.moov-africa.tg","DS_OS_BRM_TEST","VM Network","vm","VMware vCenter Server Appliance"
+"SERVEUR_ISE_01","PoweredOff","10.82.11.10","","4","16","316,21","62,78",,"rhel7_64Guest","vmx-09","guestToolsNotRunning","10309","",,"DS_OS_PORTING","VM Network","vm",
+"PROXMOX TEST","PoweredOff","10.82.11.10","","8","64","264,25","200",,"otherGuest64","vmx-15","guestToolsNotRunning","0","",,"DS_IMAGES_ISO;DS_OS_BRM_TEST","VM Network","vm",
+"TG002VMBDT001","PoweredOff","10.82.11.10","","4","64","154,25","34,27",,"rhel8_64Guest","vmx-14","guestToolsNotRunning","2147483647","",,"DS_OS_BIGDATA-00","VM Network","vm",
+"TG002VMRAS111","PoweredOff","10.82.11.10","","4","16","416,18","400",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"SERVEUR_ISE_AD","PoweredOff","10.82.11.10","","4","8","48,25","10,93",,"windows9Server64Guest","vmx-14","guestToolsNotRunning","11265","",,"DS_IMAGES_ISO;DS_OS_PORTING","VM Network","vm",
+"TG002VMAPP101","PoweredOff","10.82.11.10","","4","16","266,18","250",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"TG002VMBDT003","PoweredOff","10.82.11.10","","4","64","154,24","4,05",,"rhel8_64Guest","vmx-14","guestToolsNotRunning","10336","",,"DS_OS_BIGDATA-02","VM Network","vm",
+"TG002VMAPP103","PoweredOff","10.82.11.10","","4","16","266,18","250",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"TG002VMANS109","PoweredOff","10.82.11.10","","4","16","416,18","400",,"debian9_64Guest","vmx-14","guestToolsNotRunning","0","",,"DS_PROJET_EZRA","RESEAU-DIS","vm",
+"ISE_100","PoweredOff","10.82.11.10","","8","68","389,06","59,09",,"rhel7_64Guest","vmx-09","guestToolsNotRunning","10309","",,"DS_DATA_BI-1","VM Network","vm",
+"TG002VMRAT001","PoweredOff","10.82.11.10","","16","64","3726,64","3532,91",,"centos8_64Guest","vmx-14","guestToolsNotRunning","10282","",,"DS_DATA_RAT-1;DS_OS_RAT-1","RESEAU-DIS","vm",
+"TG002VMDS001","PoweredOff","10.82.11.10","","4","64","564,24","41,21","Red Hat Enterprise Linux 8 (64-bit)","rhel8_64Guest","vmx-14","guestToolsNotRunning","12389","","ussd-vm01","DS_IMAGES_ISO;DS_OS_IME_TEST","VM Network","",""
+"TG002VMSD002","PoweredOff","10.82.11.10","","4","64","564,24","35,64","Red Hat Enterprise Linux 8 (64-bit)","rhel8_64Guest","vmx-14","guestToolsNotRunning","12389","","ussd-vm02","DS_IMAGES_ISO;DS_OS_IME_TEST","VM Network","",""
+"TG002VMBBL002","PoweredOn","10.82.11.25","Cluster_DMZ","4","16","600,09","508,95","Red Hat Enterprise Linux 8 (64-bit)","rhel8_64Guest","vmx-14","guestToolsRunning","13322","10.82.11.135","localhost.localdomain","DS_DATA_BBL;DS_IMAGES_ISO;DS_OS_BBL","VM Network","",""
+"TG002VMBBL001","PoweredOn","10.82.11.25","Cluster_DMZ","4","16","600,09","9,59","Other 4.x or later Linux (64-bit)","other4xLinux64Guest","vmx-14","guestToolsRunning","13322","10.82.11.134","localhost.localdomain","DS_DATA_BBL;DS_IMAGES_ISO;DS_OS_BBL","VM Network","",""
+"TG002VMBKI001","PoweredOn","10.82.11.10","","32","96","6440,14","2684,23","Red Hat Enterprise Linux 8 (64-bit)","rhel8_64Guest","vmx-14","guestToolsRunning","12448","10.82.6.20","tefw01","DS_DATA_BANKAI;DS_DATA_BKI;DS_IMAGES_ISO","DIS;PROD;VM Network","",""
+"TG002VMBKI003","PoweredOn","10.82.11.10","","20","24","174,12","62,07","Red Hat Enterprise Linux 8 (64-bit)","rhel8_64Guest","vmx-14","guestToolsRunning","12448","10.82.6.12","tetb","DS_DATA_BANKAI;DS_IMAGES_ISO","DIS;PROD;VM Network","",""
+"TG002VMBKI002","PoweredOn","10.82.11.10","","32","96","6440,14","2833,06","Red Hat Enterprise Linux 8 (64-bit)","rhel8_64Guest","vmx-14","guestToolsRunning","12448","10.82.11.21","tefw02","DS_DATA_BANKAI;DS_DATA_BKI;DS_IMAGES_ISO","DIS;PROD;VM Network","",""

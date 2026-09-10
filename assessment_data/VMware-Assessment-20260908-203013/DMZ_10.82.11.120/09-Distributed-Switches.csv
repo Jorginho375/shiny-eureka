@@ -1,0 +1,4 @@
+"VDSwitch","Version","Mtu","NumUplinkPorts","Datacenter"
+"DSwitch_DIS","6.0.0","1500","1","DATACENTER-DMZ"
+"DSwitch_DPEI","6.0.0","1500","1","DATACENTER-DMZ"
+"DSwitch_PROD","6.0.0","1500","1","DATACENTER-DMZ"

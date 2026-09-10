@@ -1,0 +1,2 @@
+"Cluster","HostCount","PoweredOnVMs","TotalPhysicalCpuCores","TotalPhysicalMemoryGB","ProvisionedVCPU","ProvisionedVMRAMGB","ProvisionedVMStorageGB","SumHostCpuMHz_P95","SumHostMemConsumedKB_P95","Notes"
+"Cluster_DMZ","1","3","16","415,99","10","42","1489,88","620","38659123","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."

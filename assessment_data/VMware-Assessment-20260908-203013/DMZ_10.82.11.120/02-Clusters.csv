@@ -1,0 +1,2 @@
+"Cluster","HAEnabled","HAAdmissionControlEnabled","DrsEnabled","DrsAutomationLevel","EVCMode","HostCount","VMCount","PoweredOnVMs","TotalCPUCores","TotalMemoryGB"
+"Cluster_DMZ","False","True","True","Manual",,"1","3","3","16","415,99"

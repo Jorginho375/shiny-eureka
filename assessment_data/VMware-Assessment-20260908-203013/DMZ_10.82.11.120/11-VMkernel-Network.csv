@@ -1,0 +1,3 @@
+"Host","Cluster","Name","IP","SubnetMask","Mac","Mtu","PortGroup","VMotionEnabled","FaultToleranceLoggingEnabled","ManagementTrafficEnabled","VsanTrafficEnabled"
+"10.82.11.10","","vmk0","10.82.11.10","255.255.255.0","ac:16:2d:bd:30:c5","1500","Management Network","True","False","True","False"
+"10.82.11.25","Cluster_DMZ","vmk0","10.82.11.25","255.255.255.0","d8:9d:67:77:37:7c","1500","Management Network","True","False","True","False"

@@ -1,0 +1,17 @@
+"Host","Cluster","Device","Type","Model","Status","Driver","Pci","WWN","IScsiName"
+"10.82.11.10","","vmhba0","Block","ICH10 4 port SATA IDE Controller","unknown","vmkata","0000:00:1f.2","",
+"10.82.11.10","","vmhba1","Block","Smart Array P410i","unknown","nhpsa","0000:03:00.0","",
+"10.82.11.10","","vmhba2","FibreChannel","ISP2532-based 8Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:08:00.0","5001438021DF7F61",
+"10.82.11.10","","vmhba3","FibreChannel","ISP2532-based 8Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:0e:00.0","5001438021DF7B8D",
+"10.82.11.10","","vmhba64","Block","ICH10 4 port SATA IDE Controller","unknown","vmkata","0000:00:1f.2","",
+"10.82.11.25","Cluster_DMZ","vmhba70","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:19763266:32"
+"10.82.11.25","Cluster_DMZ","vmhba71","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:19763266:33"
+"10.82.11.25","Cluster_DMZ","vmhba0","Block","ICH10 4 port SATA IDE Controller","unknown","vmkata","0000:00:1f.2","",
+"10.82.11.25","Cluster_DMZ","vmhba1","Block","Smart Array P410i","unknown","nhpsa","0000:03:00.0","",
+"10.82.11.25","Cluster_DMZ","vmhba2","FibreChannel","ISP2532-based 8Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:08:00.0","50014380266839ED",
+"10.82.11.25","Cluster_DMZ","vmhba64","Block","ICH10 4 port SATA IDE Controller","unknown","vmkata","0000:00:1f.2","",
+"10.82.11.25","Cluster_DMZ","vmhba65","FibreChannel","ISP2532-based 8Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:0e:00.0","500143802668395F",
+"10.82.11.25","Cluster_DMZ","vmhba66","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:19763266:36"
+"10.82.11.25","Cluster_DMZ","vmhba67","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:19763266:37"
+"10.82.11.25","Cluster_DMZ","vmhba68","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:19763266:34"
+"10.82.11.25","Cluster_DMZ","vmhba69","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:19763266:35"

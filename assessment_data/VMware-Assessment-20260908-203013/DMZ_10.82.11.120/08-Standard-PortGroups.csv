@@ -1,0 +1,8 @@
+"Host","Cluster","PortGroup","VLanId","VirtualSwitch","Type"
+"10.82.11.10","","VM Network","0","vSwitch0","Standard"
+"10.82.11.10","","Management Network","0","vSwitch0","Standard"
+"10.82.11.10","","RESEAU-DIS","0","RESEAU-DIS","Standard"
+"10.82.11.10","","RESEAU-DPEI","0","RESEAU-DPEI","Standard"
+"10.82.11.10","","RESEAU-PROD","0","RESEAU-PROD","Standard"
+"10.82.11.25","Cluster_DMZ","VM Network","0","vSwitch0","Standard"
+"10.82.11.25","Cluster_DMZ","Management Network","0","vSwitch0","Standard"

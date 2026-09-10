@@ -1,0 +1,3 @@
+"Host","Cluster","ConnectionState","PowerState","Manufacturer","Model","SerialNumber","ProcessorType","CPUModelDetailed","CpuSockets","CpuCores","CpuThreads","CoresPerSocket","ThreadsPerCore","CpuTotalGHz","MemoryTotalGB","ESXiVersion","ESXiBuild","Parent","IsStandalone"
+"10.82.11.10","","Connected","PoweredOn","HP","ProLiant DL580 G7","CZ32472F6Y","Intel(R) Xeon(R) CPU E7- 4830  @ 2.13GHz","Intel(R) Xeon(R) CPU E7- 4830  @ 2.13GHz","2","16","32","8","2","34,1","415,99","6.7.0","15160138","host","True"
+"10.82.11.25","Cluster_DMZ","Connected","PoweredOn","HP","ProLiant DL580 G7","CZ3329K8K5","Intel(R) Xeon(R) CPU E7- 4830  @ 2.13GHz","Intel(R) Xeon(R) CPU E7- 4830  @ 2.13GHz","2","16","32","8","2","34,1","415,99","6.7.0","15160138","Cluster_DMZ","False"
