@@ -1,0 +1,4 @@
+"VDSwitch","Version","Mtu","NumUplinkPorts","Datacenter"
+"DSwitch3","6.6.0","1500","6","DATACENTER-TELESSOU"
+"DSwitch2","6.6.0","1500","4","DATACENTER-TELESSOU"
+"DSwitch1","6.6.0","1500","4","DATACENTER-TELESSOU"

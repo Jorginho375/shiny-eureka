@@ -1,0 +1,7 @@
+"Cluster","HAEnabled","HAAdmissionControlEnabled","DrsEnabled","DrsAutomationLevel","EVCMode","HostCount","VMCount","PoweredOnVMs","TotalCPUCores","TotalMemoryGB"
+"Cluster_DWH","True","True","True","FullyAutomated","intel-skylake","2","46","40","192","2047,35"
+"Cluster_PF_SAGE","False","True","True","FullyAutomated",,"2","54","37","224","2046,92"
+"Cluster_BSS","True","True","True","FullyAutomated",,"2","31","23","144","2047,76"
+"Cluster_ESS","True","True","True","FullyAutomated",,"2","41","39","192","1791,77"
+"Cluster_PF_BSS","False","True","True","FullyAutomated",,"2","41","28","224","2046,92"
+"Cluster_SAGE","False","True","True","FullyAutomated",,"2","53","30","192","2047,77"

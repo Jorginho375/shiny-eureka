@@ -1,0 +1,8 @@
+"PortGroup","VDSwitch","VLanConfiguration","NumPorts","PortBinding"
+"DSwitch3-DVUplinks-126","DSwitch3","VLAN Trunk [0-4094]","0","Static"
+"RESEAU-BACKUP","DSwitch3",,"8","Static"
+"DSwitch2-DVUplinks-129","DSwitch2","VLAN Trunk [0-4094]","40","Static"
+"RESEAU-DIS","DSwitch2",,"89","Static"
+"RESEAU-DPEI","DSwitch2",,"119","Static"
+"DSwitch1-DVUplinks-133","DSwitch1","VLAN Trunk [0-4094]","40","Static"
+"RESEAU-PROD","DSwitch1",,"54","Static"

@@ -1,0 +1,7 @@
+"Cluster","HostCount","PoweredOnVMs","TotalPhysicalCpuCores","TotalPhysicalMemoryGB","ProvisionedVCPU","ProvisionedVMRAMGB","ProvisionedVMStorageGB","SumHostCpuMHz_P95","SumHostMemConsumedKB_P95","Notes"
+"Cluster_DWH","2","40","192","2047,35","330","1414,31","45276,29","87523","775122277","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."
+"Cluster_PF_SAGE","2","37","224","2046,92","338","1329,25","114139,01","124139","1228862960","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."
+"Cluster_BSS","2","23","144","2047,76","189","1100,25","45667,95","61876","1096035723","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."
+"Cluster_ESS","2","39","192","1791,77","470","1464,25","29187,12","36584","966835574","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."
+"Cluster_PF_BSS","2","28","224","2046,92","306","1360,25","149393,4","132633","1423780869","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."
+"Cluster_SAGE","2","30","192","2047,77","214","866,18","71335,15","49250","889057049","Use performance P95 together with HA reserve, growth, workload peaks and ESX/VCF 9 compatibility/licensing constraints."

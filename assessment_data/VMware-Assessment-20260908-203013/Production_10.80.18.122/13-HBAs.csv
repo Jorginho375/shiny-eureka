@@ -1,0 +1,125 @@
+"Host","Cluster","Device","Type","Model","Status","Driver","Pci","WWN","IScsiName"
+"10.80.18.70","Cluster_DWH","vmhba0","Block","HPE P408i-p SR Gen10","unknown","smartpqi","0000:86:00.0","",
+"10.80.18.70","Cluster_DWH","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC0110907AD",
+"10.80.18.70","Cluster_DWH","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:11:00.1","51402EC0110907AF",
+"10.80.18.70","Cluster_DWH","vmhba64","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:64"
+"10.80.18.70","Cluster_DWH","vmhba65","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:65"
+"10.80.18.70","Cluster_DWH","vmhba66","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:66"
+"10.80.18.70","Cluster_DWH","vmhba67","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:67"
+"10.80.18.70","Cluster_DWH","vmhba68","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:68"
+"10.80.18.70","Cluster_DWH","vmhba69","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A1B61",
+"10.80.18.70","Cluster_DWH","vmhba70","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:70"
+"10.80.18.70","Cluster_DWH","vmhba71","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A1B63",
+"10.80.18.70","Cluster_DWH","vmhba72","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:72"
+"10.80.18.70","Cluster_DWH","vmhba73","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A1B65",
+"10.80.18.70","Cluster_DWH","vmhba74","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:74"
+"10.80.18.70","Cluster_DWH","vmhba75","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A1B67",
+"10.80.18.70","Cluster_DWH","vmhba76","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:76"
+"10.80.18.70","Cluster_DWH","vmhba77","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:77"
+"10.80.18.70","Cluster_DWH","vmhba78","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:78"
+"10.80.18.70","Cluster_DWH","vmhba79","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:2135151125:79"
+"10.80.18.70","Cluster_DWH","vmhba80","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:9c:00.0","51402EC0110907B9",
+"10.80.18.70","Cluster_DWH","vmhba81","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.1","51402EC0110907BB",
+"10.80.18.70","Cluster_DWH","vmhba82","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC0110907AD",
+"10.80.18.70","Cluster_DWH","vmhba83","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:11:00.1","51402EC0110907AF",
+"10.80.18.70","Cluster_DWH","vmhba84","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:9c:00.0","51402EC0110907B9",
+"10.80.18.70","Cluster_DWH","vmhba85","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.1","51402EC0110907BB",
+"10.80.18.75","Cluster_DWH","vmhba0","Block","HPE P408i-p SR Gen10","unknown","smartpqi","0000:86:00.0","",
+"10.80.18.75","Cluster_DWH","vmhba1","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.0","51402EC01109079D",
+"10.80.18.75","Cluster_DWH","vmhba2","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.1","51402EC01109079F",
+"10.80.18.75","Cluster_DWH","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC01552ED49",
+"10.80.18.75","Cluster_DWH","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.1","51402EC01552ED4B",
+"10.80.18.75","Cluster_DWH","vmhba64","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:64"
+"10.80.18.75","Cluster_DWH","vmhba65","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:65"
+"10.80.18.75","Cluster_DWH","vmhba66","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:66"
+"10.80.18.75","Cluster_DWH","vmhba67","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:67"
+"10.80.18.75","Cluster_DWH","vmhba68","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:68"
+"10.80.18.75","Cluster_DWH","vmhba69","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0F21",
+"10.80.18.75","Cluster_DWH","vmhba70","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:1713210364:70"
+"10.80.18.75","Cluster_DWH","vmhba71","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0F23",
+"10.80.18.75","Cluster_DWH","vmhba72","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:72"
+"10.80.18.75","Cluster_DWH","vmhba73","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0F25",
+"10.80.18.75","Cluster_DWH","vmhba74","IScsi","QLogic 57840 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:74"
+"10.80.18.75","Cluster_DWH","vmhba75","FibreChannel","QLogic Inc. FCoE Adapter","offline","qfle3f","N/A","100020677C0A0F27",
+"10.80.18.75","Cluster_DWH","vmhba76","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:76"
+"10.80.18.75","Cluster_DWH","vmhba77","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:77"
+"10.80.18.75","Cluster_DWH","vmhba78","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:78"
+"10.80.18.75","Cluster_DWH","vmhba79","IScsi","QLogic 57810 10 Gigabit Ethernet Adapter","unbound","qfle3i","N/A","","iqn.1998-01.com.vmware:localhost:352560264:79"
+"10.80.18.75","Cluster_DWH","vmhba80","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.0","51402EC01552ED49",
+"10.80.18.75","Cluster_DWH","vmhba81","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:11:00.1","51402EC01552ED4B",
+"10.80.18.75","Cluster_DWH","vmhba82","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.0","51402EC01109079D",
+"10.80.18.75","Cluster_DWH","vmhba83","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","offline","qlnativefc","0000:9c:00.1","51402EC01109079F",
+"10.80.18.118","Cluster_PF_SAGE","vmhba0","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:11.5","",
+"10.80.18.118","Cluster_PF_SAGE","vmhba1","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:17.0","",
+"10.80.18.118","Cluster_PF_SAGE","vmhba2","Block","PERC H730P Adapter","unknown","lsi_mr3","0000:18:00.0","",
+"10.80.18.118","Cluster_PF_SAGE","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA072706",
+"10.80.18.118","Cluster_PF_SAGE","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA072707",
+"10.80.18.118","Cluster_PF_SAGE","vmhba5","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA072746",
+"10.80.18.118","Cluster_PF_SAGE","vmhba6","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA072747",
+"10.80.18.118","Cluster_PF_SAGE","vmhba64","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA072706",
+"10.80.18.118","Cluster_PF_SAGE","vmhba65","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA072707",
+"10.80.18.118","Cluster_PF_SAGE","vmhba66","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA072746",
+"10.80.18.118","Cluster_PF_SAGE","vmhba67","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA072747",
+"10.80.18.117","Cluster_PF_SAGE","vmhba0","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:11.5","",
+"10.80.18.117","Cluster_PF_SAGE","vmhba1","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:17.0","",
+"10.80.18.117","Cluster_PF_SAGE","vmhba2","Block","PERC H730P Adapter","unknown","lsi_mr3","0000:18:00.0","",
+"10.80.18.117","Cluster_PF_SAGE","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA0727E8",
+"10.80.18.117","Cluster_PF_SAGE","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA0727E9",
+"10.80.18.117","Cluster_PF_SAGE","vmhba5","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA072854",
+"10.80.18.117","Cluster_PF_SAGE","vmhba6","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA072855",
+"10.80.18.117","Cluster_PF_SAGE","vmhba64","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA0727E8",
+"10.80.18.117","Cluster_PF_SAGE","vmhba65","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA0727E9",
+"10.80.18.117","Cluster_PF_SAGE","vmhba66","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA072854",
+"10.80.18.117","Cluster_PF_SAGE","vmhba67","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA072855",
+"10.80.18.10","Cluster_BSS","vmhba0","Block","Smart Array P830i","unknown","nhpsa","0000:02:00.0","",
+"10.80.18.10","Cluster_BSS","vmhba1","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:84:00.0","51402EC000F10829",
+"10.80.18.10","Cluster_BSS","vmhba2","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:84:00.1","51402EC000F1082B",
+"10.80.18.10","Cluster_BSS","vmhba3","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:44:00.0","51402EC000F104C1",
+"10.80.18.10","Cluster_BSS","vmhba4","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:44:00.1","51402EC000F104C3",
+"10.80.18.5","Cluster_BSS","vmhba0","Block","Smart Array P830i","unknown","nhpsa","0000:02:00.0","",
+"10.80.18.5","Cluster_BSS","vmhba1","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:84:00.0","51402EC000F104C9",
+"10.80.18.5","Cluster_BSS","vmhba2","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:84:00.1","51402EC000F104CB",
+"10.80.18.5","Cluster_BSS","vmhba3","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:44:00.0","51402EC000F106A9",
+"10.80.18.5","Cluster_BSS","vmhba4","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:44:00.1","51402EC000F106AB",
+"10.80.18.18","Cluster_ESS","vmhba0","Block","Smart Array P830i","unknown","nhpsa","0000:02:00.0","",
+"10.80.18.18","Cluster_ESS","vmhba1","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:c1:00.0","51402EC000F4381D",
+"10.80.18.18","Cluster_ESS","vmhba2","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:c1:00.1","51402EC000F4381F",
+"10.80.18.18","Cluster_ESS","vmhba3","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:81:00.0","51402EC000F43311",
+"10.80.18.18","Cluster_ESS","vmhba4","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:81:00.1","51402EC000F43313",
+"10.80.18.19","Cluster_ESS","vmhba0","Block","Smart Array P830i","unknown","nhpsa","0000:02:00.0","",
+"10.80.18.19","Cluster_ESS","vmhba1","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:c1:00.0","51402EC000F43729",
+"10.80.18.19","Cluster_ESS","vmhba2","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:c1:00.1","51402EC000F4372B",
+"10.80.18.19","Cluster_ESS","vmhba3","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:81:00.0","51402EC000F4363D",
+"10.80.18.19","Cluster_ESS","vmhba4","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:81:00.1","51402EC000F4363F",
+"10.80.18.116","Cluster_PF_BSS","vmhba0","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:11.5","",
+"10.80.18.116","Cluster_PF_BSS","vmhba1","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:17.0","",
+"10.80.18.116","Cluster_PF_BSS","vmhba2","Block","PERC H730P Adapter","unknown","lsi_mr3","0000:18:00.0","",
+"10.80.18.116","Cluster_PF_BSS","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA072748",
+"10.80.18.116","Cluster_PF_BSS","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA072749",
+"10.80.18.116","Cluster_PF_BSS","vmhba5","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA0726D8",
+"10.80.18.116","Cluster_PF_BSS","vmhba6","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA0726D9",
+"10.80.18.116","Cluster_PF_BSS","vmhba64","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA072748",
+"10.80.18.116","Cluster_PF_BSS","vmhba65","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA072749",
+"10.80.18.116","Cluster_PF_BSS","vmhba66","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA0726D8",
+"10.80.18.116","Cluster_PF_BSS","vmhba67","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA0726D9",
+"10.80.18.115","Cluster_PF_BSS","vmhba0","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:11.5","",
+"10.80.18.115","Cluster_PF_BSS","vmhba1","Block","Lewisburg SATA AHCI Controller","unknown","vmw_ahci","0000:00:17.0","",
+"10.80.18.115","Cluster_PF_BSS","vmhba2","Block","PERC H730P Adapter","unknown","lsi_mr3","0000:18:00.0","",
+"10.80.18.115","Cluster_PF_BSS","vmhba3","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA07299C",
+"10.80.18.115","Cluster_PF_BSS","vmhba4","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA07299D",
+"10.80.18.115","Cluster_PF_BSS","vmhba5","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA0726A6",
+"10.80.18.115","Cluster_PF_BSS","vmhba6","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA0726A7",
+"10.80.18.115","Cluster_PF_BSS","vmhba64","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.0","2000F4C7AA07299C",
+"10.80.18.115","Cluster_PF_BSS","vmhba65","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6d:00.1","2000F4C7AA07299D",
+"10.80.18.115","Cluster_PF_BSS","vmhba66","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.0","2000F4C7AA0726A6",
+"10.80.18.115","Cluster_PF_BSS","vmhba67","FibreChannel","QLE2692 Dual Port 16Gb Fibre Channel to PCIe Adapter","online","qlnativefc","0000:6e:00.1","2000F4C7AA0726A7",
+"10.80.18.24","Cluster_SAGE","vmhba0","Block","Smart Array P830i","unknown","nhpsa","0000:02:00.0","",
+"10.80.18.24","Cluster_SAGE","vmhba1","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:c1:00.0","51402EC000F43719",
+"10.80.18.24","Cluster_SAGE","vmhba2","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:c1:00.1","51402EC000F4371B",
+"10.80.18.24","Cluster_SAGE","vmhba3","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:81:00.0","51402EC000F437D5",
+"10.80.18.24","Cluster_SAGE","vmhba4","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:81:00.1","51402EC000F437D7",
+"10.80.18.23","Cluster_SAGE","vmhba0","Block","Smart Array P830i","unknown","nhpsa","0000:02:00.0","",
+"10.80.18.23","Cluster_SAGE","vmhba1","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:c1:00.0","51402EC000F43521",
+"10.80.18.23","Cluster_SAGE","vmhba2","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:c1:00.1","51402EC000F43523",
+"10.80.18.23","Cluster_SAGE","vmhba3","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","online","qlnativefc","0000:81:00.0","51402EC000F434AD",
+"10.80.18.23","Cluster_SAGE","vmhba4","FibreChannel","2600 Series 16Gb Fibre Channel to PCI Express HBA","offline","qlnativefc","0000:81:00.1","51402EC000F434AF",

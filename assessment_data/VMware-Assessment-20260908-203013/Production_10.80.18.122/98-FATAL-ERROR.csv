@@ -1,0 +1,4 @@
+"Time","vCenter","FriendlyName","Error","Position"
+"08/09/2026 22:19:36","10.80.18.122","Production","Cannot bind argument to parameter 'Data' because it is null.","At C:\Users\Support\Desktop\VMware-Assessment-Collector-v1.7.ps1:892 char:17
++     Export-Data $warningRows ""99-Warnings""
++                 ~~~~~~~~~~~~"
